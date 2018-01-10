@@ -1,0 +1,24 @@
+{
+  "name": "console.lokki",
+  "version": "1.0.0",
+  "description": "console.lokki() - just like console.log() but sometimes seagull steals your debug prints",
+  "main": "lokki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theikkila/console.lokki.git"
+  },
+  "keywords": [
+    "seagulls",
+    "console.log",
+    "debug"
+  ],
+  "author": "Teemu Heikkilä <teemu@emblica.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theikkila/console.lokki/issues"
+  },
+  "homepage": "https://github.com/theikkila/console.lokki#readme"
+}
